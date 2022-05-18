@@ -1,2 +1,2 @@
 # calculator
-tutorial project
+Git tutorial project - aha!
